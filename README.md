@@ -1,7 +1,7 @@
 Hi 👋 My name is Faizal Hidayat
 ===============================
 
-Blockchain Dev
+Web3 Dev
 --------------
 
 Hello and welcome, I am pleased to introduce myself as a passionate individual in the field of web3, particularly blockchain.
